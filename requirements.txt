@@ -2,6 +2,7 @@ pandas
 numpy
 matplotlib
 seaborn
+shap==0.52.0
 scikit-learn==1.6.1
 streamlit
 joblib
