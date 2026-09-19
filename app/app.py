@@ -7,7 +7,7 @@ import streamlit as st
 
 # إعداد صفحة التطبيق
 st.set_page_config(
-    page_title="نظام BNN لأمراض القلب",
+    page_title="نظام ذكي لتقدير احتمال وجود مرض القلب وتفسير مخرجات النموذج باستخدام تقنيات تعلّم الآلة   ",
     page_icon="🫀",
     layout="centered",
     initial_sidebar_state="collapsed"
